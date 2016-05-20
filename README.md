@@ -10,7 +10,7 @@
 
 The problem we want to solve is that of identifying trends of verbal abuse again women on Twitter. The characteristics and traits of verbal abuse on Twitter must be identified before a solution to the abuse can be found. We want to identify trends through analyzing topics,users and words associated with verbally abusive tweets. We also want to identify geographic trends of verbal abuse tweets.
 
-**Video**: http://link-to-video.com
+**Video**: https://vimeo.com/167431363
 
 **Demo**: http://ats423.github.io/VerbalAbuse_Final/
 
