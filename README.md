@@ -12,7 +12,7 @@ The problem we want to solve is that of identifying trends of verbal abuse again
 
 **Video**: http://link-to-video.com
 
-**Demo**: http://link-to-demo.com
+**Demo**: http://ats423.github.io/VerbalAbuse_Final/
 
 **Document**: http://link-to-finalreport.com ...
 
