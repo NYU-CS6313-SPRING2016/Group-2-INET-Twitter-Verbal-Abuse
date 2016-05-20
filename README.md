@@ -14,7 +14,7 @@ The problem we want to solve is that of identifying trends of verbal abuse again
 
 **Demo**: http://ats423.github.io/VerbalAbuse_Final/
 
-**Document**: http://link-to-finalreport.com ...
+**Document**: https://drive.google.com/file/d/0B1razRb9jLZRMm1vZXF3S0lqNHM/view?usp=sharing
 
 
 
